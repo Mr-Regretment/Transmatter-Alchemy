@@ -40,6 +40,11 @@ const NAV_DATA = [
     "chapter": "Kern &amp; The Cell"
   },
   {
+    "file": "kern-assistance.html",
+    "label": "Kern Assistance",
+    "chapter": "Kern &amp; The Cell"
+  },
+  {
     "file": "kern-bruteforce.html",
     "label": "Brute Force: The Theoretical Ceiling",
     "chapter": "Kern &amp; The Cell"
