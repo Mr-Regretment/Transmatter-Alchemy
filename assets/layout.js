@@ -13,8 +13,8 @@
     }
     const a = document.createElement('a');
     a.href = p.file;
+    a.className = 'navlink' + (p.file === here ? ' active' : '');
     a.textContent = p.label;
-    if(p.file === here) a.className = 'active';
     sidebar.appendChild(a);
   });
   const themeBtn = document.createElement('button');
